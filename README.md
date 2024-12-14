@@ -1,4 +1,4 @@
-# Bounce-Ball#
+# Bounce-Ball
 
 A modernized **Breakout-style arcade game** built using **Pygame**, featuring power-ups, multi-ball challenges, animations, and dynamic gameplay elements.
 
